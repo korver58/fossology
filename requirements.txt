@@ -1,0 +1,8 @@
+tqdm
+autopep8
+flake8
+
+fossology
+requests
+
+jupyterlab
